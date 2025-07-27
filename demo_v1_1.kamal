@@ -1,0 +1,11 @@
+INTELLECT count = 0
+
+AGAIN count < 3 UNTIL
+    KAMAL.SPEAK "Counting: " + str(count)
+    INTELLECT count = count + 1
+AGAIN ENDS
+
+SCENE Motivation BEGINS
+    KAMAL.SPEAK "Never give up!"
+    KAMAL.SPEAK "Ulaganayagan forever."
+SCENE ENDS
