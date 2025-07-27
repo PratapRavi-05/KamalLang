@@ -1,0 +1,24 @@
+# Welcome to KamalLang!
+# A programming language inspired by the legendary Kamal Haasan
+
+KAMAL.SPEAK "Vanakkam! Welcome to KamalLang - Where Art Meets Code!"
+
+# Variables are declared with INTELLECT (like Kamal's intellect)
+INTELLECT age = 70
+INTELLECT films = 230
+INTELLECT thug_life = True
+
+# Conditionals with IF/THEN
+IF age > 60 THEN KAMAL.SPEAK "Vetri Nichayam! (Success is certain!)"
+IF films > 200 THEN KAMAL.SPEAK "Indian cinema legend!"
+
+# Combining conditions
+IF thug_life AND age > 50 THEN KAMAL.SPEAK "Thug Life: Thinking, Understanding, Growing!"
+
+# Math expressions
+INTELLECT fans = 1000000
+INTELLECT new_fans = fans * 2
+KAMAL.SPEAK "Kamal has millions of fans!"
+
+# String concatenation
+KAMAL.SPEAK "Kamal Haasan is " + str(age) + " years young!"
