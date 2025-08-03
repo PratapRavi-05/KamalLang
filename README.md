@@ -29,7 +29,7 @@
 
 ## 🚀 How to Run
 
-1. This project runs directly on **Replit** - no setup needed!
+1. This project runs directly on both Python and Replit - no setup needed!
 2. Click the **Run** button to execute the sample KamalLang program
 3. Modify the code in `main.py` to create your own KamalLang programs
 
